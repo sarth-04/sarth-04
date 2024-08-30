@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQF9OYYfNPZiig/article-cover_image-shrink_600_2000/0/1595183963308?e=2147483647&v=beta&t=yufySgNBd-sv2DBJ-e8LIrCABik8zaMzMDgDTd7HeWk)]()
 <h1 align="center">Hi 👋, I'm Sarthak Ingle</h1>
 <h3 align="center">A passionate ML enthusiast from Birla Institute of Technology and Science, Pilani. Currently in my third year of Computer Science Engineering.</h3>
 
