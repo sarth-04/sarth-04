@@ -14,7 +14,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **DDoS attack Detectation**
+- 🔭 I’m currently working on **DDoS attack Detective 🕵️‍♂️**
 
 - 📫 How to reach me **sarthakingle04@gmail.com**
 
