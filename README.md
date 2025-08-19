@@ -12,8 +12,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a third-year undergraduate at **Birla Institute of Technology and Science, Pilani**, majoring in Computer Science.
-- 🔍 Actively exploring **Machine Learning, Deep Learning, Natural Language Processing**, and **Causal Inference**.
+- 🎓 I'm a final-year undergraduate at **Birla Institute of Technology and Science, Pilani**, majoring in Computer Science.
+- 🔍 Actively exploring **Machine Learning, Deep Learning, Natural Language Processing**, and **Gen-AI**.
 - 🚀 Currently working on **DDoS Attack Detection using ML techniques**.
 - 💡 Passionate about AI, evolution, anime, cubing, fussball, and sci-fi.
 - 📫 Reach me at: **sarthakingle04@gmail.com**
