@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Ingle</h1>
-<h3 align="center">Computer Science Undergraduate at BITS Pilani | AI/ML Research Enthusiast</h3>
+<h3 align="center">Computer Science Undergraduate at BITS Pilani | Visiting Scholar at National University of Singapore.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarth-04&label=Profile%20views&color=0e75b6&style=flat" alt="sarth-04" />
