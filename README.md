@@ -1,55 +1,74 @@
-# Hi, I'm **[Your Name]**! 👋  
-<p align="center">Welcome to my Marvel-themed GitHub profile!</p>
+# Hi, I'm **Sarthak Ingle**! 👋  
+<p align="center">Welcome to my GitHub profile!</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3mZslQwX1rJjOZZ6/giphy.gif" alt="Avengers team assembling" />
+  <img src="https://media.giphy.com/media/l3mZslQwX1rJjOZZ6/giphy.gif" alt="Team assembling" width="500"/>
 </p>
 
-## About Me  
+---
+
+## 🧠 About Me  
 <p align="center">
-  <img src="https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif" alt="Baby Groot dancing in his pot" width="300"/>
+  <img src="https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif" alt="Dancing animation" width="300"/>
 </p>
 
-As Tony Stark would say, *"genius, billionaire, playboy, philanthropist."* I’m not all of those things – but I **am** a passionate software developer who loves innovation (and Marvel!). I bring a hero’s determination to every project, always learning and adapting. When I'm not coding, you might find me re-watching Marvel movies or debating who’s the strongest Avenger.
+I’m a final-year Computer Science undergrad at **BITS Pilani** and a **Visiting Scholar at NUS**.  
 
-## Tech Stack  
+Passionate about **AI/ML, LLMs, Generative AI**, and building futuristic systems with cutting-edge tech.  
+
+- 🚀 Currently working on **Agentic AI pipelines** and **RAG evaluation systems**  
+- 🧠 Exploring **LLM interpretability** and **RLHF research**  
+- 💻 Love building **end-to-end ML products** with real-world impact  
+- 📬 Reach me: **sarthakingle04@gmail.com**
+
+---
+
+## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://media.giphy.com/media/1SwSneBv946CZVYaNm/giphy.gif" alt="Shuri from Black Panther working in her lab" width="400"/>
+  <img src="https://media.giphy.com/media/1SwSneBv946CZVYaNm/giphy.gif" alt="Tech Lab Animation" width="400"/>
 </p>
 
-Like Tony Stark’s ever-evolving suits, my tech stack is always improving. Here are some of the technologies I work with:
+- **Languages:** Python, JavaScript, C++  
+- **Frameworks:** PyTorch, TensorFlow, FastAPI, Flask, React  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** HuggingFace, LangChain, Docker, Git, AWS  
 
-- **Languages:** JavaScript, Python, C++  
-- **Frameworks:** React, Node.js, .NET  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, Docker, AWS
+---
 
-## Projects  
+## ⚡ Featured Projects  
 <p align="center">
-  <img src="https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif" alt="Captain America saluting" width="300"/>
+  <img src="https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif" alt="Salute Animation" width="300"/>
 </p>
 
-I love tackling new challenges head-on, much like an Avenger facing a mission. Here are a few **projects** that showcase my work:
+Some of the projects I’ve built include:  
 
-- **Marvel Heroes Database** – A web app to explore Marvel characters and comics using the Marvel API (React, Node.js).  
-- **Portfolio Website** – My personal website showcasing projects and blog posts (HTML, CSS, JavaScript).  
-- **Sentiment Analyzer** – A machine learning tool that analyzes social media sentiment (Python, scikit-learn).
+- **News Bias Detection** – LLM-based pipeline for political bias detection using attention heads + DW-NOMINATE  
+- **DDoS Detection ML+RL** – XGBoost + RNN + DQN with full evaluation on CIC-DDoS datasets  
+- **Civic Data API** – FastAPI + Postgres for political representative data with caching and CI/CD  
+- **AI Legal Shorthand** – OCR → LLM → structured legal text processing pipeline  
 
-## Stats  
+---
+
+## 📈 GitHub Vitals  
 <p align="center">
-  <img src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif" alt="Tony Stark analyzing data on a holographic interface" width="400"/>
+  <img src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif" alt="Tech Interface" width="400"/>
 </p>
 
-I’m a bit data-driven – I like to monitor my coding activity just as Tony Stark keeps an eye on his suit’s diagnostics. *(GitHub contributions, streaks, and other fun stats would go here.)*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarth-04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarth-04&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarth-04&layout=compact&theme=radical&hide_border=true" height="160"/>
+</div>
 
-## Connect with Me  
+---
+
+## 🌐 Connect with Me  
 <p align="center">
-  <img src="https://media.giphy.com/media/xThtavMQZtCbNZo2WY/giphy.gif" alt="Black Panther (T'Challa) giving the Wakanda Forever salute" width="300"/>
+  <img src="https://media.giphy.com/media/xThtavMQZtCbNZo2WY/giphy.gif" alt="Wakanda Forever Salute" width="300"/>
 </p>
 
-I’m always excited to connect with fellow developers (and Marvel fans)! Feel free to reach out on any of these platforms:
+- **LinkedIn:** [Sarthak Ingle](https://linkedin.com/in/sarthak-ingle)  
+- **Twitter:** [@YourTwitterHandle](https://x.com/YourTwitterHandle)  
+- **Email:** [sarthakingle04@gmail.com](mailto:sarthakingle04@gmail.com)  
 
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourusername)  
-- **Twitter:** [@YourHandle](https://twitter.com/YourHandle)  
-- **Email:** [youremail@example.com](mailto:youremail@example.com)  
-
+---
