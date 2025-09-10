@@ -1,37 +1,37 @@
 <div align="center">
 
-  <!-- Typing banner -->
+  <!-- Typing banner with Stark vibes -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&duration=2000&color=00F5D4&center=true&vCenter=true&width=800&lines=Sarthak+Ingle;AI+Engineer+%7C+LLM+Tinkerer;Final-year+CS+@+BITS+Pilani;Visiting+Scholar+%7C+NUS;Building+AI+Systems+That+Ship" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&duration=2000&color=FF3CAC&center=true&vCenter=true&width=800&lines=Sarthak+Ingle;AI+Engineer+%7C+LLM+Tinkerer;Final-year+CS+@+BITS+Pilani;Visiting+Scholar+%7C+NUS;Inspired+By+Tony+Stark+Tech" alt="Typing SVG">
   </a>
 
-  <!-- Coding GIF -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Coding Animation"/>
+  <!-- Iron Man Tech GIF -->
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="Iron Man Tech"/>
 </div>
 
 ---
 
 ## 🧠 About Me
-I’m **Sarthak** — final-year CS @ **BITS Pilani**, Visiting Scholar @ **NUS**, and an AI/ML explorer passionate about **LLMs, RAG, RLHF**, and all things **data + code**.  
+Hey there, I’m **Sarthak** — final-year CS student at **BITS Pilani**, Visiting Scholar at **NUS**, and a huge **Marvel + AI nerd**.  
 
-- 🚀 Building **LLM-powered agents** and **Generative AI pipelines**  
-- 🧪 Exploring **interpretability** + **evaluation frameworks**  
-- 🎯 Turning research into **production-ready AI systems**  
+- 🦾 Building **LLM Agents** & **Generative AI pipelines**  
+- 🧠 Exploring **RAG systems, RLHF**, and **AI interpretability**  
+- 🎯 Turning AI research into **Tony Stark-style products**  
 - 📬 Email: **sarthakingle04@gmail.com**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Workstation"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Tony Stark Coding Animation"/>
 </p>
 
 ---
 
-## 🦾 Tech & AI Stack
+## 🛠 Tech & AI Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,huggingface,fastapi,flask,react,postgres,git,docker&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="380" alt="Terminal Coding Animation"/>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="380" alt="Stark Terminal Animation"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I’m **Sarthak** — final-year CS @ **BITS Pilani**, Visiting Scholar @ **NUS*
 | 🎙️ **AI Legal Shorthand** | OCR → LLM → Structured legal text pipeline | PyAnnote, Whisper, HuggingFace |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="Programming Animation"/>
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="320" alt="Jarvis Coding"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ I’m **Sarthak** — final-year CS @ **BITS Pilani**, Visiting Scholar @ **NUS*
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Code Loop"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Stark Tech Stats"/>
 </p>
 
 ---
@@ -71,5 +71,5 @@ I’m **Sarthak** — final-year CS @ **BITS Pilani**, Visiting Scholar @ **NUS*
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Coding Sunset"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Avengers Assemble Animation"/>
 </p>
