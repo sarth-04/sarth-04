@@ -1,56 +1,56 @@
 <div align="center">
 
-  <!-- Typing banner with Stark vibes -->
+  <!-- Stark-style Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&duration=2000&color=FF3CAC&center=true&vCenter=true&width=800&lines=Sarthak+Ingle;AI+Engineer+%7C+LLM+Tinkerer;Final-year+CS+@+BITS+Pilani;Visiting+Scholar+%7C+NUS;Inspired+By+Tony+Stark+Tech" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&pause=1000&duration=2200&color=00F5D4&center=true&vCenter=true&width=800&lines=Sarthak+Ingle;AI+Engineer+%7C+LLM+Tinkerer;Final-year+CS+@+BITS+Pilani;Visiting+Scholar+%7C+NUS;Inspired+By+Tony+Stark's+Tech" alt="Typing SVG">
   </a>
 
-  <!-- Iron Man Tech GIF -->
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="Iron Man Tech"/>
+  <!-- JARVIS Hologram GIF -->
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="JARVIS Interface"/>
 </div>
 
 ---
 
-## 🧠 About Me
-Hey there, I’m **Sarthak** — final-year CS student at **BITS Pilani**, Visiting Scholar at **NUS**, and a huge **Marvel + AI nerd**.  
+## 🧠 About Me  
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Tony Stark Coding"/>
+</div>
 
-- 🦾 Building **LLM Agents** & **Generative AI pipelines**  
-- 🧠 Exploring **RAG systems, RLHF**, and **AI interpretability**  
-- 🎯 Turning AI research into **Tony Stark-style products**  
-- 📬 Email: **sarthakingle04@gmail.com**
+I’m **Sarthak** — final-year CS student at **BITS Pilani**, Visiting Scholar at **NUS**, and a huge **Marvel + AI nerd**.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Tony Stark Coding Animation"/>
-</p>
+- 🦾 Designing **LLM-powered Agents** + **Generative AI Pipelines**  
+- 🧠 Researching **RAG, RLHF, and AI Interpretability**  
+- 🚀 Building AI systems with **Tony Stark-level UI vibes**  
+- 📬 Reach me: **sarthakingle04@gmail.com**
 
 ---
 
-## 🛠 Tech & AI Stack
+## 🛠 Stark-Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,huggingface,fastapi,flask,react,postgres,git,docker&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="380" alt="Stark Terminal Animation"/>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="380" alt="HUD Coding"/>
 </p>
 
 ---
 
-## ⚡ Featured AI Projects
+## ⚡ Featured AI Projects  
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🗞️ **News Bias Detection** | Political bias via attention heads + DW-NOMINATE | Transformers, Interpretability |
-| 🛡️ **DDoS Detection ML+RL** | XGBoost + RNN + DQN with full evaluation | XGBoost, RNN, DQN |
-| 🧩 **Political API** | Fast civic data API with caching & CI/CD | FastAPI, Postgres, Python |
-| 🎙️ **AI Legal Shorthand** | OCR → LLM → Structured legal text pipeline | PyAnnote, Whisper, HuggingFace |
+| 🗞️ **News Bias Detection** | Detecting political bias via Attention Heads + DW-NOMINATE | Transformers, Interpretability |
+| 🛡️ **DDoS Detection ML+RL** | XGBoost + RNN + DQN → full evaluation suite | XGBoost, RNN, DQN |
+| 🧩 **Civic Data API** | FastAPI + caching + CI/CD for civic datasets | FastAPI, Postgres, Python |
+| 🎙️ **AI Legal Shorthand** | OCR → LLM → Structured Legal Text Pipeline | PyAnnote, Whisper, HuggingFace |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="320" alt="Jarvis Coding"/>
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="320" alt="Jarvis Console"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Vitals
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarth-04&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarth-04&theme=radical&hide_border=true" height="160"/>
@@ -58,7 +58,7 @@ Hey there, I’m **Sarthak** — final-year CS student at **BITS Pilani**, Visit
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Stark Tech Stats"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Avengers HUD Stats"/>
 </p>
 
 ---
@@ -71,5 +71,12 @@ Hey there, I’m **Sarthak** — final-year CS student at **BITS Pilani**, Visit
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Avengers Assemble Animation"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" alt="Avengers Assemble"/>
+</p>
+
+---
+
+## 🎬 JARVIS Footer
+<p align="center">
+  <img src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" width="280" alt="Jarvis Ending Screen"/>
 </p>
